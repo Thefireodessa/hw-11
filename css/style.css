@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+}
+.block {
+    width:22.5%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+ol {
+    line-height: 30px;
+    list-style-type: none;
+    color: grey;
+}
+h4 {
+    margin-left: 14%;
+}
+hr {
+    color: lightgrey;
+}
